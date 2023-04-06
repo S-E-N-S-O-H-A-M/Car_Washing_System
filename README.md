@@ -1,1 +1,2 @@
 # Car Washing System
+This project introduces a car washing system with five working modes based on the washing quality. Depending on the washing quality, these modes used in a variety of circumstances. The car washing system is created using the Xilinx Vivado 2022.1 Suite software and the implementation is done on Nexys 4 DDR board, which is based on the hardware description language Verilog HDL. After implementation, the simulation results of the different modes of operations are obtained and verified. These results are shown and discussed .
