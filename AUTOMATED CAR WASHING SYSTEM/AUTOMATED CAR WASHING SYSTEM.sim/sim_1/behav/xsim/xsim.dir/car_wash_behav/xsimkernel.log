@@ -1,0 +1,7 @@
+Running: xsim.dir/car_wash_behav/xsimk.exe -simmode gui -wdb car_wash_behav.wdb -simrunnum 0 -socket 52710
+Design successfully loaded
+Design Loading Memory Usage: 7720 KB (Peak: 7720 KB)
+Design Loading CPU Usage: 78 ms
+Simulation completed
+Simulation Memory Usage: 8232 KB (Peak: 8232 KB)
+Simulation CPU Usage: 78 ms
